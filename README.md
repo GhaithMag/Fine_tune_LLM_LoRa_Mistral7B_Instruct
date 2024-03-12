@@ -8,9 +8,11 @@
 </head>
 <body>
   
-<img src="fine_tune_ill.jpg" alt="Illustration of LLM Fine-Tuning" style="max-width: 25%; height: auto;">
 
-<h1>Empowering Mistral7B Instruct with LoRa: Specializing in DoD's Fiscal Insights</h1>
+
+
+<h1>💪 Empowering Mistral7B Instruct with LoRa: 🤖 Specializing in DoD's Fiscal Insights 💰 </h1>
+
 <h2>Introduction</h2><p>
     Fine-tuning Large Language Models (LLMs) 🧠 unlocks their true potential ✨, enabling them to excel 🏆 at specialized tasks and address domain-specific knowledge gaps 🕳️. In our project 🚀, we employed the LoRa method 🛠️ to fine-tune our LLM, Mistral7B Instruct 🌬️. This process empowered 💪 Mistral7B Instruct with the ability to answer intricate questions ❓ about the Department of Defense's (DoD) budget 💰 for fiscal year 2024 📅, a domain where it previously lacked expertise 🚫🤷.
 </p>
@@ -47,4 +49,6 @@
 <p>👩‍💻 Once you have cloned the repository, start by running the <code>create-data.py</code> script to generate your dataset. Then, proceed to explore the provided <a href="https://github.com/GhaithMag/Fine_tune_LLM_LoRa_Mistral7B_Instruct/blob/main/mistral-finetune-own-data.ipynb">notebook</a> to understand the training process in detail.</p>
 
 <p>💡 Fine-tuning an LLM has never been easier. This project provides you with the necessary tools and guidance to customize an LLM to your specific needs.</p>
+
+<img src="fine_tune_ill.jpg" alt="Illustration of LLM Fine-Tuning" style="width:100%; max-width:200px; display:block">
 
